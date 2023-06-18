@@ -1,4 +1,4 @@
-### Hi, i'm Yuri. A 22 year old Fullstack Web Developer in the making!
+## Hi, i'm Yuri. A 22 year old Fullstack Web Developer in the making!
 
 My journey in technology started when i was just a kid and got my first computer at 6 years old. But it was just a hobby till the end of 2020, when a started a IT Technician course and was presented to the world of software development and immediately fell in love with it.
 
