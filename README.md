@@ -4,7 +4,7 @@ My journey in technology started when i was just a kid and got my first computer
 
 
 I'm currently graduating from an intensive 9 month long Bootcamp focused on the MERN + SQL stack for Web Development, including some more tecnologies such as Typescript and Docker, among others.
-Just recently I finished the front-end modules and started the back-end first back-end module, where i'm learning Node.js and MongoDB.
+Just recently I finished the front-end modules and started the first back-end module, where i'm learning Node.js and MongoDB.
 
 
 ### Currently learning
