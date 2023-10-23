@@ -10,6 +10,56 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
 <table>
   <tbody>
     <tr>
+       <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="40"
+          alt="javascript logo"
+        />
+        <img width="12" /> Javascript
+      </td>
+      <td>
+        <img
+          src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"
+          height="40"
+          alt="github logo"
+        />
+        <img width="12" /> Typescript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="40"
+          alt="react logo"
+        />
+        <img width="12" /> React
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="40"
+          alt="nodejs logo"
+        />
+        <img width="12" /> Node.js
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Express
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          height="40"
+          alt="postgresql logo"
+        />
+        <img width="12" /> Postgresql
+      </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -28,56 +78,6 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          height="40"
-          alt="javascript logo"
-        />
-        <img width="12" /> Javascript
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-          height="40"
-          alt="react logo"
-        />
-        <img width="12" /> React
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <img width="12" /> Node.js
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="postgresql logo"
-        />
-        <img width="12" /> Postgresql
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <img width="12" /> MongoDB
-      </td>
-      <td>
-        <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="bootstrap"
           width="40"
@@ -93,6 +93,22 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
         /> 
         <img width="12" /> Sass
+      </td>
+       <td>
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> Prisma
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> MongoDB
       </td>
     </tr>
     <tr>
