@@ -16,7 +16,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /> Javascript
+        <img width="11" /> Javascript
       </td>
       <td>
         <img
@@ -24,7 +24,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="github logo"
         />
-        <img width="12" /> Typescript
+        <img width="12" />Typescript
       </td>
       <td>
         <img
@@ -152,6 +152,14 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           alt="github logo"
         />
         <img width="12" /> GitHub
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg"
+          height="40"
+          alt="github logo"
+        />
+        <img width="12" /> Jest
       </td>
     </tr>
   </tbody>
