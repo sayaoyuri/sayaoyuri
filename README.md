@@ -56,7 +56,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="postgresql logo"
         />
-        <img width="12" /> Postgresql
+        <img width="12" /> PostgreSQL
       </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> Visual Studio Code
+        <img width="12" /> VS Code
       </td>
       <td>
         <img
