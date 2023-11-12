@@ -16,7 +16,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="javascript logo"
         />
-        <img width="11" /> Javascript
+        <p>Javascript</p>
       </td>
       <td>
         <img
@@ -24,7 +24,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="github logo"
         />
-        <img width="12" />Typescript
+        <p>Typescript</p>
       </td>
       <td>
         <img
@@ -32,7 +32,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="react logo"
         />
-        <img width="12" /> React
+        <p>React.js</p>
       </td>
       <td>
         <img
@@ -40,7 +40,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="nodejs logo"
         />
-        <img width="12" /> Node.js
+        <p>Node.js</p>
       </td>
       <td>
         <img
@@ -48,7 +48,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="express logo"
         />
-        <img width="12" /> Express
+        <p>Express</p>
       </td>
       <td>
         <img
@@ -56,7 +56,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="postgresql logo"
         />
-        <img width="12" /> PostgreSQL
+        <p>PostgreSQL</p>
       </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="html5 logo"
         />
-        <img width="12" /> HTML
+        <p>HTML</p>
       </td>
       <td>
         <img
@@ -74,7 +74,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="css3 logo"
         />
-        <img width="12" /> CSS
+        <p>CSS</p>
       </td>
       <td>
         <img
@@ -83,7 +83,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           width="40"
           height="40"
         />
-        <img width="12" /> Bootstrap
+        <p>Bootstrap</p>
       </td>
       <td>
         <img 
@@ -91,8 +91,8 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           alt="Sass"
           width="40"
           height="40"
-        /> 
-        <img width="12" /> Sass
+        />
+        <p>Sass</p>
       </td>
        <td>
         <img
@@ -100,7 +100,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="mongodb logo"
         />
-        <img width="12" /> Prisma
+        <p>Prisma</p>
       </td>
       <td>
         <img
@@ -108,7 +108,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="mongodb logo"
         />
-        <img width="12" /> MongoDB
+        <p>MongoDB</p>
       </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> VS Code
+        <p>VS Code</p>
       </td>
       <td>
         <img
@@ -127,7 +127,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           width="40"
           height="40"
         />
-        <img width="12" /> Figma
+        <p>Figma</p>
       </td>
       <td>
         <img
@@ -135,7 +135,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="linux logo"
         />
-        <img width="12" /> Linux
+        <p>Linux</p>
       </td>
       <td>
         <img
@@ -143,7 +143,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="git logo"
         />
-        <img width="12" /> Git
+        <p>Git</p>
       </td>
       <td>
         <img
@@ -151,7 +151,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="github logo"
         />
-        <img width="12" /> GitHub
+        <p>GitHub</p>
       </td>
       <td>
         <img
@@ -159,7 +159,8 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           height="40"
           alt="github logo"
         />
-        <img width="12" /> Jest
+        <img width="12" />
+        <p>Jest</p>
       </td>
     </tr>
   </tbody>
