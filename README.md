@@ -11,156 +11,191 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
   <tbody>
     <tr>
        <td>
+         <p align="center">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
           alt="javascript logo"
         />
-        <p>Javascript</p>
+        </p>
+        <figcaption align="center">Javascript</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"
-          height="40"
-          alt="github logo"
-        />
-        <p>Typescript</p>
+        <p align="center">
+          <img
+            src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"
+            height="40"
+            alt="github logo"
+          />
+        </p>
+        <figcaption>Typescript</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-          height="40"
-          alt="react logo"
-        />
-        <p>React.js</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            height="40"
+            alt="react logo"
+          />
+        </p>
+        <figcaption>React.js</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <p>Node.js</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            height="40"
+            alt="nodejs logo"
+          />
+        </p>
+        <figcaption>Node.js</figcaption>
       </td>
       <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <p>Express</p>
+        <p align="center">
+          <img
+            src="https://skillicons.dev/icons?i=express"
+            height="40"
+            alt="express logo"
+          />
+        </p>
+        <figcaption>Express</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="postgresql logo"
-        />
-        <p>PostgreSQL</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+            height="40"
+            alt="postgresql logo"
+          />
+        </p>
+        <figcaption>PostgreSQL</figcaption>
       </td>
     </tr>
     <tr>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-          height="40"
-          alt="html5 logo"
-        />
-        <p>HTML</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            height="40"
+            alt="html5 logo"
+          />
+        </p>
+        <figcaption>HTML</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-          height="40"
-          alt="css3 logo"
-        />
-        <p>CSS</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            height="40"
+            alt="css3 logo"
+          />
+        </p>
+        <figcaption>CSS</figcaption>
       </td>
       <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-        <p>Bootstrap</p>
+        <p align="center">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap"
+            width="40"
+            height="40"
+          />
+        </p>
+        <figcaption>Bootstrap</figcaption>
       </td>
       <td>
-        <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-          alt="Sass"
-          width="40"
-          height="40"
-        />
-        <p>Sass</p>
+        <p align="center">
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+            alt="Sass"
+            width="40"
+            height="40"
+          />
+        </p>
+        <figcaption>Sass</figcaption>
       </td>
        <td>
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <p>Prisma</p>
+         <p align="center">
+          <img
+            src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg"
+            height="40"
+            alt="mongodb logo"
+          />
+         </p>
+        <figcaption>Prisma</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <p>MongoDB</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            height="40"
+            alt="mongodb logo"
+          />
+        </p>
+        <figcaption>MongoDB</figcaption>
       </td>
     </tr>
     <tr>
       <td>
-        <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
-          height="40"
-          alt="vscode logo"
-        />
-        <p>VS Code</p>
+        <p align="center">
+          <img
+            src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+            height="40"
+            alt="vscode logo"
+          />
+        </p>
+        <figcaption>VS Code</figcaption>
       </td>
       <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-        <p>Figma</p>
+        <p align="center">
+          <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+            alt="figma"
+            width="40"
+            height="40"
+          />
+        </p>
+        <figcaption>Figma</figcaption>
       </td>
       <td>
-        <img
-          src="https://skillicons.dev/icons?i=linux"
-          height="40"
-          alt="linux logo"
-        />
-        <p>Linux</p>
+        <p align="center">
+          <img
+            src="https://skillicons.dev/icons?i=linux"
+            height="40"
+            alt="linux logo"
+          />
+        </p>
+        <figcaption>Linux</figcaption>
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <p>Git</p>
+        <p align="center">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+            height="40"
+            alt="git logo"
+          />
+        </p>
+        <figcaption>Git</figcaption>
       </td>
       <td>
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          height="40"
-          alt="github logo"
-        />
-        <p>GitHub</p>
+        <p align="center">
+          <img
+            src="https://skillicons.dev/icons?i=github"
+            height="40"
+            alt="github logo"
+          />
+        </p>
+        <figcaption>GitHub</figcaption>
       </td>
       <td>
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg"
-          height="40"
-          alt="github logo"
-        />
-        <img width="12" />
-        <p>Jest</p>
+        <p align="center">
+          <img
+            src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg"
+            height="40"
+            alt="github logo"
+          />
+        </p>
+        <figcaption>Jest</figcaption>
       </td>
     </tr>
   </tbody>
