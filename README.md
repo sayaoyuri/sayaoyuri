@@ -7,7 +7,7 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
 
 ### Current Languages and Tools
 
-<table>
+<table align="center" text-align="center">
   <tbody>
     <tr>
        <td>
@@ -70,6 +70,16 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
         </p>
         <figcaption>PostgreSQL</figcaption>
       </td>
+      <td>
+        <p align="center">
+          <img
+              src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
+              height="40"
+              alt="Redis logo"
+            />
+        </p>
+        <figcaption>Redis</figcaption>
+      </td>
     </tr>
     <tr>
       <td>
@@ -82,15 +92,24 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
         </p>
         <figcaption>HTML</figcaption>
       </td>
-      <td>
-        <p align="center">
+      <td text-align="center" align="center">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             height="40"
             alt="css3 logo"
           />
+        <p>CSS</p>
+      </td>
+      <td>
+        <p align="center">
+          <img 
+            src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4"
+            alt="Styled Components"
+            width="40"
+            height="40"
+          />
         </p>
-        <figcaption>CSS</figcaption>
+        <figcaption>Styled C.</figcaption>
       </td>
       <td>
         <p align="center">
@@ -196,6 +215,16 @@ I'm currently completing an intensive 9 month long Bootcamp focused on the Javas
           />
         </p>
         <figcaption>Jest</figcaption>
+      </td>
+       <td>
+        <p align="center">
+          <img
+            src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/mysql.svg"
+            height="40"
+            alt="MySQL logo"
+          />
+        </p>
+        <figcaption>MySQL</ficaption>
       </td>
     </tr>
   </tbody>
