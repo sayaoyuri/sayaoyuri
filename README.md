@@ -4,7 +4,7 @@ Além de ser fissurado por música e qualquer tipo de competição, sou um Desen
 <br>
 (Todo mundo conhece algum sistema que parece ter sido feito para dificultar)
 
-### Stack principal
+### Principais Tecnologias
 
 <table>
   <tbody>
@@ -189,7 +189,7 @@ Além de ser fissurado por música e qualquer tipo de competição, sou um Desen
   </tbody>
 </table>
 
-### Próximas tecnologias
+### Tecnologias que pretendo aprender/aprofundar
 <table>
   <tbody>
     <tr>
@@ -208,6 +208,14 @@ Além de ser fissurado por música e qualquer tipo de competição, sou um Desen
           alt="Next.js logo"
         />
         <p>Next.js</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg"
+          width="50"
+          alt="PHP logo"
+        />
+        <p>PHP</p>
       </td>
       <td text-align="center" align="center">
         <img
