@@ -6,7 +6,7 @@ Além de ser fissurado por música e qualquer tipo de competição, sou um Desen
 
 ### Stack principal
 
-<table align="center" text-align="center">
+<table>
   <tbody>
     <tr>
       <td text-align="center" align="center">
@@ -184,6 +184,62 @@ Além de ser fissurado por música e qualquer tipo de competição, sou um Desen
           alt="MySQL logo"
         />
         <p>MySQL</ficaption>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Próximas tecnologias
+<table>
+  <tbody>
+    <tr>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg"
+          height="40"
+          alt="Nest.jslogo"
+        />
+        <p>Nest.js</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg"
+          height="40"
+          alt="Next.js logo"
+        />
+        <p>Next.js</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg"
+          height="40"
+          alt="Java logo"
+        />
+        <p>Java</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png"
+          height="40"
+          alt="Spring Boot logo"
+        />
+        <p>Spring<br>Boot</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="40"
+          alt="react native logo"
+        />
+        <p>React<br>Native</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-sharp.svg"
+          height="40"
+          alt="C# logo"
+        />
+        <p>C#</p>
       </td>
     </tr>
   </tbody>
