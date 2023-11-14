@@ -252,3 +252,12 @@ Além de ser fissurado por música e qualquer tipo de competição, sou um Desen
     </tr>
   </tbody>
 </table>
+
+### Contatos
+<p>
+  <img width="13px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg"/>
+  <a href="https://www.linkedin.com/in/sayaoyuri/"> in/sayaoyuri</a>
+  <br>
+  <img width="13px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-gmail.svg"/>
+  <a href="mailto:sayaoyuri.dev@gmail.com">sayaoyuri.dev@gmail.com</a>
+</p>
