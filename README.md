@@ -1,4 +1,4 @@
-### Seja bem-vindo! Me chamo Yuri, tenho 23 anos e sou um Desenvolvedor de Software.
+## Seja bem-vindo! Me chamo Yuri, tenho 23 anos e sou um Desenvolvedor de Software.
 
 Além de ser fissurado por música e qualquer tipo de competição, sou um Desenvolvedor de software e no momento estou focado no desenvolvimento de aplicações web. Utilizo meu conhecimento para entregar softwares que facilitem a vida de usuários. 
 <br>
@@ -195,6 +195,22 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
   </tbody>
 </table>
 
+### Tecnologias que estou aprendendo
+<table>
+  <tbody>
+    <tr>
+       <td text-align="center" align="center">
+         <img
+           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg"
+           height="40"
+           alt="Docker Logo "
+          />
+         <p>Docker</p>
+       </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Tecnologias que pretendo aprender/aprofundar
 <table>
   <tbody>
@@ -218,7 +234,7 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
       <td text-align="center" align="center">
         <img
           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg"
-          width="50"
+          width="55"
           alt="PHP logo"
         />
         <p>PHP</p>
@@ -246,6 +262,22 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
           alt="react native logo"
         />
         <p>React<br>Native</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg"
+          height="40"
+          alt="Angular Logo"
+        />
+        <p>Angular</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vue.svg"
+          height="40"
+          alt="Vue.js Logo"
+        />
+        <p>Vue.js</p>
       </td>
       <td text-align="center" align="center">
         <img
