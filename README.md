@@ -1,8 +1,14 @@
-## Olá, seja bem-vindo! Me chamo Yuri e tenho 23 anos.
+### Seja bem-vindo! Me chamo Yuri, tenho 23 anos e sou um Desenvolvedor de Software.
 
 Além de ser fissurado por música e qualquer tipo de competição, sou um Desenvolvedor de software e no momento estou focado no desenvolvimento de aplicações web. Utilizo meu conhecimento para entregar softwares que facilitem a vida de usuários. 
 <br>
 (Todo mundo conhece algum sistema que parece ter sido feito para dificultar)
+
+Venho trabalhando no desenvolvimento de projetos Full-Stack, desenvolvendo features de ponta a ponta. Desde o Front-End com React.js, garantindo a fidelidade do layout e funcionalidades, assim como no Back-End, construindo APIs RESTFUL em Node.js, garantindo o funcionamento, consistência e segurança das funcionalidades.
+
+Para garantir a persistência e confiabilidade de dados nas aplicações tenho gostado de utilizar os bancos de dados PostgreSQL, MySQL, MongoDB e Redis para aplicações que exigem alta performance.
+
+Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em vez de Javascript, mantendo assim boas práticas durante o desenvolvimento, também em arquitetura de software com design patterns. Para garantir a confiabilidade do código desenvolvido, tenho utilizado Jest para realizar testes unitários e de integração.
 
 ### Principais Tecnologias
 
