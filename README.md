@@ -33,11 +33,27 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
       </td>
       <td text-align="center" align="center">
         <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg"
+          width="55"
+          alt="PHP logo"
+        />
+        <p>PHP</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
           height="40"
           alt="react logo"
         />
         <p>React.js</p>
+      </td>
+       <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg"
+          height="40"
+          alt="Angular Logo"
+        />
+        <p>Angular</p>
       </td>
       <td text-align="center" align="center">
         <img
@@ -120,9 +136,26 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
         <img
           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg"
           height="40"
-          alt="mongodb logo"
+          alt="prisma logo"
         />
         <p>Prisma</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://github.com/get-icon/geticon/blob/master/icons/sequelize.svg"
+          height="40"
+          alt="sequelize logo"
+        />
+        <p>Sequelize</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://github.com/get-icon/geticon/blob/master/icons/oracle.svg"
+          height="40"
+          width="90"
+          alt="oracle logo"
+        />
+        <p>Oracle</p>
       </td>
       <td text-align="center" align="center">
         <img
@@ -183,13 +216,29 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
         />
         <p>Jest</p>
       </td>
+       <td text-align="center" align="center">
+        <img
+          src="https://github.com/sayaoyuri/sayaoyuri/assets/93060857/ae66e0cf-b6d6-4c03-bf23-ea18582870e6"
+          height="25"
+          alt="jquery logo"
+        />
+        <p>JQuery</p>
+      </td>
       <td text-align="center" align="center">
         <img
           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/mysql.svg"
           height="40"
           alt="MySQL logo"
         />
-        <p>MySQL</ficaption>
+        <p>MySQL</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg"
+          height="40"
+          alt="material ui logo"
+        />
+        <p>Material UI</p>
       </td>
     </tr>
   </tbody>
@@ -233,14 +282,6 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
       </td>
       <td text-align="center" align="center">
         <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg"
-          width="55"
-          alt="PHP logo"
-        />
-        <p>PHP</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg"
           height="40"
           alt="Java logo"
@@ -262,14 +303,6 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
           alt="react native logo"
         />
         <p>React<br>Native</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg"
-          height="40"
-          alt="Angular Logo"
-        />
-        <p>Angular</p>
       </td>
       <td text-align="center" align="center">
         <img
