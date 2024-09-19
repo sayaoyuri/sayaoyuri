@@ -169,7 +169,7 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
     <tr>
     <td text-align="center" align="center">
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/visual-studio-code.svg"
           height="40"
           alt="vscode logo"
         />
