@@ -1,4 +1,4 @@
-## Seja bem-vindo! Me chamo Yuri, tenho 23 anos e sou um Desenvolvedor de Software.
+## Welcome! I'm Yuri and i'm 24 years old and i'm a Software Engineer.
 
 Além de ser fissurado por música e qualquer tipo de competição, sou um Desenvolvedor de software e no momento estou focado no desenvolvimento de aplicações web. Utilizo meu conhecimento para entregar softwares que facilitem a vida de usuários. 
 <br>
@@ -10,7 +10,7 @@ Para garantir a persistência e confiabilidade de dados nas aplicações tenho g
 
 Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em vez de Javascript, mantendo assim boas práticas durante o desenvolvimento, também em arquitetura de software com design patterns. Para garantir a confiabilidade do código desenvolvido, tenho utilizado Jest para realizar testes unitários e de integração.
 
-### Principais Tecnologias
+### Main Technologies
 
 <table>
   <tbody>
@@ -244,23 +244,39 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
   </tbody>
 </table>
 
-### Tecnologias que estou aprendendo
+### Currently deepening knowledge in
 <table>
   <tbody>
     <tr>
-       <td text-align="center" align="center">
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg"
+          height="40"
+          alt="Next.js logo"
+        />
+        <p>Next.js</p>
+      </td>
+<!--        <td text-align="center" align="center">
          <img
            src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg"
            height="40"
-           alt="Docker Logo "
+           alt="Docker Logo"
           />
          <p>Docker</p>
+       </td> -->
+      <td text-align="center" align="center">
+         <img
+           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg"
+           height="40"
+           alt="TailwindCSS"
+          />
+         <p>TailwindCSS</p>
        </td>
     </tr>
   </tbody>
 </table>
 
-### Tecnologias que pretendo aprender/aprofundar
+### Technologies i'm interested in
 <table>
   <tbody>
     <tr>
@@ -271,14 +287,6 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
           alt="Nest.jslogo"
         />
         <p>Nest.js</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg"
-          height="40"
-          alt="Next.js logo"
-        />
-        <p>Next.js</p>
       </td>
       <td text-align="center" align="center">
         <img
