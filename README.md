@@ -17,6 +17,14 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
     <tr>
       <td text-align="center" align="center">
         <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg"
+          width="55"
+          alt="PHP logo"
+        />
+        <p>PHP</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
           alt="javascript logo"
@@ -33,19 +41,19 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
       </td>
       <td text-align="center" align="center">
         <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg"
-          width="55"
-          alt="PHP logo"
-        />
-        <p>PHP</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
           height="40"
           alt="react logo"
         />
         <p>React.js</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg"
+          height="40"
+          alt="Next.js logo"
+        />
+        <p>Next.js</p>
       </td>
        <td text-align="center" align="center">
         <img
@@ -69,23 +77,15 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
           height="40"
           alt="express logo"
         />
-        <p>Express</p>
+        <p>Express.js</p>
       </td>
-      <td text-align="center" align="center">
+       <td text-align="center" align="center">
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg"
           height="40"
-          alt="postgresql logo"
+          alt="github logo"
         />
-        <p>PostgreSQL</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
-          src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
-          height="40"
-          alt="Redis logo"
-        />
-        <p>Redis</p>
+        <p>Jest</p>
       </td>
     </tr>
     <tr>
@@ -106,13 +106,28 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
         <p>CSS</p>
       </td>
       <td text-align="center" align="center">
-          <img 
-            src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4"
-            alt="Styled Components"
-            width="40"
-            height="40"
+        <img
+          src="https://github.com/sayaoyuri/sayaoyuri/assets/93060857/ae66e0cf-b6d6-4c03-bf23-ea18582870e6"
+          height="25"
+          alt="jquery logo"
+        />
+        <p>JQuery</p>
+      </td>
+      <td text-align="center" align="center">
+         <img
+           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg"
+           height="30"
+           alt="TailwindCSS"
           />
-        <p>Styled C.</p>
+         <p>TailwindCSS</p>
+       </td>
+       <td text-align="center" align="center">
+        <img
+          src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg"
+          height="40"
+          alt="material ui logo"
+        />
+        <p>Material UI</p>
       </td>
       <td text-align="center" align="center">
           <img
@@ -133,57 +148,24 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
         <p>Sass</p>
       </td>
       <td text-align="center" align="center">
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg"
-          height="40"
-          alt="prisma logo"
-        />
-        <p>Prisma</p>
+          <img 
+            src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4"
+            alt="Styled Components"
+            width="40"
+            height="40"
+          />
+        <p>Styled C.</p>
       </td>
       <td text-align="center" align="center">
         <img
-          src="https://github.com/get-icon/geticon/blob/master/icons/sequelize.svg"
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg"
           height="40"
-          alt="sequelize logo"
+          alt="Docker Logo"
         />
-        <p>Sequelize</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
-          src="https://github.com/get-icon/geticon/blob/master/icons/oracle.svg"
-          height="40"
-          width="90"
-          alt="oracle logo"
-        />
-        <p>Oracle</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <p>MongoDB</p>
+        <p>Docker</p>
       </td>
     </tr>
     <tr>
-    <td text-align="center" align="center">
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/visual-studio-code.svg"
-          height="40"
-          alt="vscode logo"
-        />
-        <p>VS Code</p>
-      </td>
-      <td text-align="center" align="center">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-        <p>Figma</p>
-      </td>
       <td text-align="center" align="center">
         <img
           src="https://skillicons.dev/icons?i=linux"
@@ -202,27 +184,20 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
       </td>
       <td text-align="center" align="center">
         <img
-          src="https://skillicons.dev/icons?i=github"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
           height="40"
-          alt="github logo"
+          alt="postgresql logo"
         />
-        <p>GitHub</p>
+        <p>PostgreSQL</p>
       </td>
       <td text-align="center" align="center">
         <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg"
+          src="https://github.com/get-icon/geticon/blob/master/icons/oracle.svg"
           height="40"
-          alt="github logo"
+          width="90"
+          alt="oracle logo"
         />
-        <p>Jest</p>
-      </td>
-       <td text-align="center" align="center">
-        <img
-          src="https://github.com/sayaoyuri/sayaoyuri/assets/93060857/ae66e0cf-b6d6-4c03-bf23-ea18582870e6"
-          height="25"
-          alt="jquery logo"
-        />
-        <p>JQuery</p>
+        <p>Oracle</p>
       </td>
       <td text-align="center" align="center">
         <img
@@ -232,13 +207,37 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
         />
         <p>MySQL</p>
       </td>
+       <td text-align="center" align="center">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <p>MongoDB</p>
+      </td>
       <td text-align="center" align="center">
         <img
-          src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg"
+          src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
           height="40"
-          alt="material ui logo"
+          alt="Redis logo"
         />
-        <p>Material UI</p>
+        <p>Redis</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg"
+          height="40"
+          alt="prisma logo"
+        />
+        <p>Prisma</p>
+      </td>
+      <td text-align="center" align="center">
+        <img
+          src="https://github.com/get-icon/geticon/blob/master/icons/sequelize.svg"
+          height="40"
+          alt="sequelize logo"
+        />
+        <p>Sequelize</p>
       </td>
     </tr>
   </tbody>
@@ -250,28 +249,12 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
     <tr>
       <td text-align="center" align="center">
         <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg"
+          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg"
           height="40"
-          alt="Next.js logo"
+          alt="Nest.jslogo"
         />
-        <p>Next.js</p>
+        <p>Nest.js</p>
       </td>
-<!--        <td text-align="center" align="center">
-         <img
-           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg"
-           height="40"
-           alt="Docker Logo"
-          />
-         <p>Docker</p>
-       </td> -->
-      <td text-align="center" align="center">
-         <img
-           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg"
-           height="40"
-           alt="TailwindCSS"
-          />
-         <p>TailwindCSS</p>
-       </td>
     </tr>
   </tbody>
 </table>
@@ -280,14 +263,6 @@ Visando melhorar a qualidade de código, tenho optado por utilizar Typescript em
 <table>
   <tbody>
     <tr>
-      <td text-align="center" align="center">
-        <img
-          src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg"
-          height="40"
-          alt="Nest.jslogo"
-        />
-        <p>Nest.js</p>
-      </td>
       <td text-align="center" align="center">
         <img
           src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg"
